@@ -24,17 +24,6 @@ Combino mi pasión por la tecnología con mi background científico para crear s
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
-<div align="center">
-  <a href="https://github.com/Apine15">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Apine15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apine15&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
-
----
-
 ### 📫 Conectemos
 
 <p align="left">
