@@ -28,5 +28,7 @@ Combino mi pasión por la tecnología con mi background científico para crear s
 
 <p align="left">
 <a href="https://linkedin.com/in/andreapinedalink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andreapinedalink" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://apine15.github.io/portfolio-personal/" target="blank">🌐 <strong>Mi Portfolio Web</strong></a>
-</p>
+<a href="https://apine15.github.io/portfolio-personal/" target="blank">
+    <img align="center" src="https://img.icons8.com/ios-filled/50/4a90e2/internet.png" alt="web" height="30" width="30" style="vertical-align:middle"/> 
+    <strong>&nbsp;Mi Portfolio Web</strong> <a href="https://apine15.github.io/portfolio-personal/" target="blank">
+</a>
